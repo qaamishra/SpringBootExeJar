@@ -1,0 +1,5 @@
+2017-06-08 07:20:44.476  INFO 14300 --- [main] BootUtilityExecutableJarApplicationTests : Starting SprintBootUtilityExecutableJarApplicationTests on Ashutosh-Lenovo with PID 14300 (started by Ashutosh in F:\IntellijCodeBase\QAAMISHRA\SpringBootExeJar)
+2017-06-08 07:20:44.477  INFO 14300 --- [main] BootUtilityExecutableJarApplicationTests : No active profile set, falling back to default profiles: default
+2017-06-08 07:20:44.630  INFO 14300 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@305b7c14: startup date [Thu Jun 08 07:20:44 IST 2017]; root of context hierarchy
+2017-06-08 07:20:46.031  INFO 14300 --- [main] BootUtilityExecutableJarApplicationTests : Started SprintBootUtilityExecutableJarApplicationTests in 2.52 seconds (JVM running for 4.108)
+2017-06-08 07:20:46.126  INFO 14300 --- [Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@305b7c14: startup date [Thu Jun 08 07:20:44 IST 2017]; root of context hierarchy
