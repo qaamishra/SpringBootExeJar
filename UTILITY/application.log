@@ -1,0 +1,18 @@
+2016-11-20 17:54:04.795  INFO 4948 --- [main] printBootUtilityExecutableJarApplication : Starting SprintBootUtilityExecutableJarApplication v0.0.1-SNAPSHOT on Ashutosh-Lenovo with PID 4948 (F:\IntellijCodeBase\MyGitHub\FreshJavaProjLatest\SprintBootUtilityExecutableJAR\UTILITY\SprintBootUtilityExecutableJAR-0.0.1-SNAPSHOT.jar started by Ashutosh in F:\IntellijCodeBase\MyGitHub\FreshJavaProjLatest\SprintBootUtilityExecutableJAR\UTILITY)
+2016-11-20 17:54:04.808  INFO 4948 --- [main] printBootUtilityExecutableJarApplication : No active profile set, falling back to default profiles: default
+2016-11-20 17:54:05.026  INFO 4948 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1de0aca6: startup date [Sun Nov 20 17:54:04 IST 2016]; root of context hierarchy
+2016-11-20 17:54:06.796  INFO 4948 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2016-11-20 17:54:06.843  INFO 4948 --- [main] printBootUtilityExecutableJarApplication : Started SprintBootUtilityExecutableJarApplication in 2.924 seconds (JVM running for 5.096)
+2016-11-20 17:54:06.845  INFO 4948 --- [main] com.mishra.techie.app.runner.Runner      : mishra
+2016-11-20 17:54:06.845  INFO 4948 --- [main] com.mishra.techie.app.runner.Runner      : techie
+2016-11-20 17:54:06.846  INFO 4948 --- [Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1de0aca6: startup date [Sun Nov 20 17:54:04 IST 2016]; root of context hierarchy
+2016-11-20 17:54:06.847  INFO 4948 --- [Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2016-11-20 17:54:28.013  INFO 11828 --- [main] printBootUtilityExecutableJarApplication : Starting SprintBootUtilityExecutableJarApplication v0.0.1-SNAPSHOT on Ashutosh-Lenovo with PID 11828 (F:\IntellijCodeBase\MyGitHub\FreshJavaProjLatest\SprintBootUtilityExecutableJAR\UTILITY\SprintBootUtilityExecutableJAR-0.0.1-SNAPSHOT.jar started by Ashutosh in F:\IntellijCodeBase\MyGitHub\FreshJavaProjLatest\SprintBootUtilityExecutableJAR\UTILITY)
+2016-11-20 17:54:28.020  INFO 11828 --- [main] printBootUtilityExecutableJarApplication : No active profile set, falling back to default profiles: default
+2016-11-20 17:54:28.129  INFO 11828 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1de0aca6: startup date [Sun Nov 20 17:54:28 IST 2016]; root of context hierarchy
+2016-11-20 17:54:29.508  INFO 11828 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2016-11-20 17:54:29.537  INFO 11828 --- [main] printBootUtilityExecutableJarApplication : Started SprintBootUtilityExecutableJarApplication in 2.24 seconds (JVM running for 2.903)
+2016-11-20 17:54:29.541  INFO 11828 --- [main] com.mishra.techie.app.runner.Runner      : mishra
+2016-11-20 17:54:29.541  INFO 11828 --- [main] com.mishra.techie.app.runner.Runner      : techie
+2016-11-20 17:54:29.543  INFO 11828 --- [Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1de0aca6: startup date [Sun Nov 20 17:54:28 IST 2016]; root of context hierarchy
+2016-11-20 17:54:29.545  INFO 11828 --- [Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
